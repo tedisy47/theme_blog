@@ -1,0 +1,15 @@
+@font-face{
+	font-family: 'blackjak';
+	src: url('font/blackjak.otf')
+ 
+}
+.timesnewroman{ font-family: 'times new roman', serif }
+
+.blackjak{
+	font-family:  'backjack', cursive;
+}
+.lemonada{font-family: 'Lemonada', cursive;}
+.pacifico{font-family: 'Pacifico', cursive}
+.playfair{font-family: 'Playfair Display SC', serif;}
+.shrikhand{font-family: 'Shrikhand', cursive;}
+.righteous{font-family: 'Righteous', cursive;}
